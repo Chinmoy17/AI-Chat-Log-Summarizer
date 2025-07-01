@@ -25,6 +25,6 @@ This Python script reads a chat log between a user and an AI (formatted as `User
     ```
 4. Run the script:
     ```
-    python [code.py](http://_vscodecontentref_/0)
+    python codepy
     ```
 5. The summary will be printed in the terminal.
